@@ -1,0 +1,9 @@
+.hexagon {
+
+	background:url(../img/hex.png);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:contain;
+	width:20px;
+	height:20px;
+}
