@@ -106,7 +106,12 @@
 
 /* HOVER EFFECT  */
 
+#team li div h1 {
+	color:#fff;
+}
+
 #team li div:hover h1 {
+	
   bottom:50%;
   padding-bottom:10%;
 }
